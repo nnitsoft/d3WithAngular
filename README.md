@@ -1,3 +1,5 @@
+This repository was created for the source repo purpose of article https://medium.com/@nimishgoel056/charts-using-d3-js-in-angular-acaf4542c413 which focus on how to create basic bar chart with integration of d3.js and angular8. 
+
 # D3WithAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
